@@ -1,5 +1,7 @@
 {
   "name": "pasaporteunifranz",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
